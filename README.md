@@ -1,6 +1,15 @@
 text-encoding
 ==============
 
+This is **cropped** version of [text-encoding](https://github.com/inexorabletash/text-encoding).
+Support ONLY encoding UTF8->Win1251
+```js
+npm install c01nd01r/text-encoding
+yarn add c01nd01r/text-encoding
+```
+
+----------
+
 This is a polyfill for the [Encoding Living
 Standard](https://encoding.spec.whatwg.org/) API for the Web, allowing
 encoding and decoding of textual data to and from Typed Array buffers
